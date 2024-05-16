@@ -7,11 +7,7 @@
 
 Gitpod에서 시작하기
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Ludium-Official/icp/)
-
-또는 GitHub Codespaces에서 시작하기
-
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Ludium-Official/icp/?quickstart=1)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/IDKNWHORU/Ludium-ICP-Dashboard/)
 
 ## 🚀 Develop
 
